@@ -1,0 +1,23 @@
+<html>
+<head>
+    <script type="text/javascript">
+    function sayhello()
+    {
+    document.write(" :) ");
+    }
+    </script>
+    </head>
+
+    <body>
+       
+    </body>
+    
+    <form>
+        <input type="button"
+        onclick="sayhello()" value = " do not click">
+    </form>
+    
+
+</head>
+
+</html>
