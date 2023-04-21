@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>on click Event</title>
+<script>
+function hello()
+{
+    alert("Hiiiiiii :)")
+}
+</script>
+</head>
+<body>
+<button type="button" onclick="hello()"> Click me!
+</button>
+    
+</body>
+</html>
