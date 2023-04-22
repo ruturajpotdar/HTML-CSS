@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Image add </title>
+</head>
+<body>
+    <h1>hello</h1>
+    <p> this is syntax to add image</p>
+    
+    <!--image src="image adress here" alt="this is an image"-->
+
+    <image src="image.jpg" alt="An image"> </image>
+    
+</body>
+</html>
